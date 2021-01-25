@@ -4,7 +4,7 @@
 
 
 /*
-	hArr indexes are ranging from 1 - n, not from 0 - n-1
+	hArr indexes are ranging from 1 -> n, not from 0 -> n-1
 */
 
 template<class T>
